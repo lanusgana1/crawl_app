@@ -3,6 +3,7 @@
 	"name": "crawler_app",
 	"type": "project",
 	"require": {
-		"php": ">=5.2.4"
+		"php": ">=5.2.4",
+		"monolog/monolog": "1.0.*"
 	}
 }
